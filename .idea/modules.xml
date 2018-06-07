@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mailsort-common/mailsort-common.iml" filepath="$PROJECT_DIR$/mailsort-common/mailsort-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailsort-dal/mailsort-dal.iml" filepath="$PROJECT_DIR$/mailsort-dal/mailsort-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailsort-parent.iml" filepath="$PROJECT_DIR$/mailsort-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailsort-server/mailsort-server.iml" filepath="$PROJECT_DIR$/mailsort-server/mailsort-server.iml" />
+    </modules>
+  </component>
+</project>
